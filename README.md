@@ -20,7 +20,7 @@ A clean and modern UI for a food recommendation application built with Flutter. 
 ## 📸 Project Screenshot
 
 
-<img width="1080" height="2400" alt="Screenshot_1767858739" src="https://github.com/user-attachments/assets/7aa8b540-5a0a-48ed-aa32-1e280a7b7ae6" />
+<img width="20" height="40" alt="Screenshot_1767858739" src="https://github.com/user-attachments/assets/7aa8b540-5a0a-48ed-aa32-1e280a7b7ae6" />
 
 
 ## Author: Qasim Ali
