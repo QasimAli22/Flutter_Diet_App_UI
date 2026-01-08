@@ -19,9 +19,9 @@ A clean and modern UI for a food recommendation application built with Flutter. 
 
 ## 📸 Project Screenshot
 
-<div align="center">
-  <img src="https://i.imgur.com/G5g27eP.jpeg" width="300" alt="Breakfast App Home Screen" />
-</div>
+
+<img width="1080" height="2400" alt="Screenshot_1767858739" src="https://github.com/user-attachments/assets/7aa8b540-5a0a-48ed-aa32-1e280a7b7ae6" />
+
 
 ## Author: Qasim Ali
 
