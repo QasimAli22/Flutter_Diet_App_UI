@@ -1,1 +1,47 @@
+# Breakfast App UI 🥞
+
+A clean and modern UI for a food recommendation application built with Flutter. This project demonstrates how to build complex layouts, use SVG icons, and manage scrollable lists.
+
+## 📱 Project Overview
+
+
+## ✨ Key Features
+
+*   **Search Functionality:** Custom-styled search bar widget.
+*   **Category Selector:** Horizontal scroll view for food categories (Salad, Cake, Pie, etc.).
+*   **Diet Recommendations:** attractive cards displaying:
+    *   Food Image
+    *   Title (e.g., Honey Pancake)
+    *   Difficulty Level & Preparation Time
+    *   Calorie Count (e.g., 180kCal)
+*   **Modern Styling:** Uses BoxShadows, rounded corners (BorderRadius), and a pastel color palette.
+
+
+## 📸 Project Screenshot
+
+<div align="center">
+  <img src="https://i.imgur.com/G5g27eP.jpeg" width="300" alt="Breakfast App Home Screen" />
+</div>
+
+## Author: Qasim Ali
+
+## 🚀 Getting Started
+
+Follow these steps to run the project on your local machine.
+
+### 1. Clone the repository
+
+git clone https://github.com/your-username/Flutter-Basics.git
+
+## 🛠️ Prerequisites
+
+Make sure you have the following installed:
+*   [Flutter SDK](https://flutter.dev/docs/get-started/install)
+*   [VS Code](https://code.visualstudio.com/) or Android Studio
+*   A physical device or Emulator (Android/iOS)
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally.
+
 
